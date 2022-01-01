@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi, I’m @rohitNEC
+- 👀 I’m interested in building Web Applications.
+- 🌱 I’m a Full Stack MERN Development.
+- 💞️ I’m looking to collaborate on Web Projects.
+- 📫 How to reach me? rohit.v@necsws.com thru mail.
 
 <!--
 **rohitNEC/rohitNEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
